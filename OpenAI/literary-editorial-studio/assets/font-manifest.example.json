@@ -1,0 +1,16 @@
+{
+  "fonts": [
+    {
+      "name": "Noto Serif CJK SC",
+      "use": "body",
+      "source": "official",
+      "last_checked": "2026-03-10"
+    },
+    {
+      "name": "LXGW WenKai",
+      "use": "display",
+      "source": "official",
+      "last_checked": "2026-03-10"
+    }
+  ]
+}

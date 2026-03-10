@@ -1,0 +1,43 @@
+{
+  "fonts": [
+    {
+      "aliases": [
+        "Noto Sans CJK SC",
+        "Noto Sans SC"
+      ],
+      "license": "SIL Open Font License 1.1",
+      "source": "https://github.com/notofonts/noto-cjk"
+    },
+    {
+      "aliases": [
+        "Noto Serif CJK SC",
+        "Noto Serif SC"
+      ],
+      "license": "SIL Open Font License 1.1",
+      "source": "https://github.com/notofonts/noto-cjk"
+    },
+    {
+      "aliases": [
+        "Source Han Sans SC",
+        "Source Han Sans"
+      ],
+      "license": "SIL Open Font License 1.1",
+      "source": "https://github.com/adobe-fonts/source-han-sans"
+    },
+    {
+      "aliases": [
+        "Source Han Serif SC",
+        "Source Han Serif"
+      ],
+      "license": "SIL Open Font License 1.1",
+      "source": "https://github.com/adobe-fonts/source-han-serif"
+    },
+    {
+      "aliases": [
+        "LXGW WenKai"
+      ],
+      "license": "SIL Open Font License 1.1",
+      "source": "https://github.com/lxgw/LxgwWenKai"
+    }
+  ]
+}
