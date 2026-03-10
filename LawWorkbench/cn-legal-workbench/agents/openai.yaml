@@ -1,0 +1,4 @@
+interface:
+  display_name: "PRC Legal Workbench"
+  short_description: "Top-tier PRC legal partner workflow with drafting, disputes, diligence, data assets, OCR, PDF, Excel, Word, and OSINT."
+  default_prompt: "Use $cn-legal-workbench to classify this PRC legal task, ask 3-5 key fact questions if needed, lock the strategy, then deliver the work in four steps: case assessment and multimodal analysis, legal deliverable, risk-blocking action guide, and official authorities plus supporting cases."
