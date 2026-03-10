@@ -1,4 +1,0 @@
-interface:
-  display_name: "Literary Editorial Studio"
-  short_description: "One skill for long-form writing, editorial revision, formatting, and release checks."
-  default_prompt: "Use $literary-editorial-studio to handle a novel or literary manuscript from planning and editing through formatting, packaging, and publication-safety review."
