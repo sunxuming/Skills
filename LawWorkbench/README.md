@@ -1,12 +1,20 @@
 # PRC Legal Workbench
 
-One Codex skill for partner-level PRC legal drafting, contract review, dispute work, diligence, data-asset compliance, Word redlining, OCR evidence handling, PDF parsing, Excel legal calculations, and public-source compliance research.
+One OpenAI Codex skill for partner-level PRC legal drafting, contract review, dispute work, diligence, data-asset compliance, Word redlining, OCR evidence handling, PDF parsing, Excel legal calculations, and public-source compliance research.
 
-This repository is intentionally packaged as a single public skill so users do not need to chain multiple adjacent legal skills for normal Chinese legal-document workflows.
+This repository is intentionally packaged as a single public OpenAI skill so users do not need to chain multiple adjacent legal skills for normal Chinese legal-document workflows.
+
+## Important identification
+
+This repository is an `OpenAI Codex skill` package.
+
+- It is meant to be installed into a Codex skills directory and invoked as `$cn-legal-workbench`.
+- It is not a standalone desktop app, SaaS product, law firm, filing platform, or official legal-information system.
+- The root deliverable in this repository is the `cn-legal-workbench/` skill folder, not an executable program.
 
 ## What it is
 
-`cn-legal-workbench` is a self-contained skill for:
+`cn-legal-workbench` is a self-contained OpenAI Codex skill for:
 
 - contract drafting, review, and strategic redlining
 - litigation and arbitration documents
@@ -83,7 +91,7 @@ Many PRC legal workflows break across too many neighboring steps: facts, redline
 
 ## Quick start
 
-### 1. Install the skill
+### 1. Install the OpenAI skill
 
 Copy the `cn-legal-workbench` folder into your Codex skills directory:
 
@@ -92,7 +100,7 @@ Copy the `cn-legal-workbench` folder into your Codex skills directory:
 
 Then restart Codex.
 
-### 2. Use it in Codex
+### 2. Use it in OpenAI Codex
 
 Example prompts:
 
@@ -114,7 +122,7 @@ python cn-legal-workbench/scripts/compute_legal_amounts.py overdue --principal 1
 
 ## Public-release stance
 
-This repository is for lawful legal-document operations, internal work-product preparation, structured review, and source-based compliance support.
+This repository is for lawful legal-document operations, internal work-product preparation, structured review, and source-based compliance support inside an OpenAI Codex skill workflow.
 
 It is not a substitute for bar admission, filing rights, court acceptance, regulatory approval, or matter-specific human sign-off. It should not be used to fabricate materials, misrepresent legal authority, or conceal unlawful conduct.
 

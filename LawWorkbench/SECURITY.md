@@ -2,7 +2,9 @@
 
 ## Scope
 
-This repository is a public Codex skill for lawful PRC legal-document workflows, structured review, evidence organization, and source-based compliance support.
+This repository is a public OpenAI Codex skill for lawful PRC legal-document workflows, structured review, evidence organization, and source-based compliance support.
+
+It should be identified and distributed as a skill package, not as standalone legal software or an official legal service.
 
 It is not intended for:
 
